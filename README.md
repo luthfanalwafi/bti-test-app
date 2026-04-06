@@ -58,25 +58,23 @@ flutter build apk --release
 ## 4. Folder Structure
 
 lib/
-│
-├── commons/       # Reusable widgets and shared UI components
-├── models/        # Data models
-├── services/      # API, database, utilities
-├── provider/      # State management
-├── router/        # Routing page
-├── pages/         # Application pages
-│   ├── login/
-│   ├── home/
-│   ├── news-detail/
-│   ├── support-chat/
-│   ├── bookmark/
-│   └── profile/
-│
-├── widgets/       # Reusable UI components
-└── main.dart      # Application entry point
+├── commons/ # Reusable widgets and shared UI components
+├── models/ # Data models
+├── services/ # API, database, utilities
+├── provider/ # State management
+├── router/ # Routing page
+├── pages/ # Application pages
+│ ├── login/
+│ ├── home/
+│ ├── news-detail/
+│ ├── support-chat/
+│ ├── bookmark/
+│ └── profile/
+├── widgets/ # Reusable UI components
+└── main.dart # Application entry point
 
 integration_test/
-└── app_test.dart  # Integration test for full user flow
+└── app_test.dart # Integration test for full user flow
 
 ---
 
