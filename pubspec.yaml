@@ -9,8 +9,25 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  intl: ^0.20.2
+  provider: ^6.1.5+1
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  sqflite: ^2.4.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  image_picker: ^1.2.1
+  photo_view: ^0.15.0
+  modal_bottom_sheet: ^3.0.0
+
+  # authentication
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  google_sign_in: ^6.3.0
 
 dev_dependencies:
+  integration_test:
+    sdk: flutter
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0

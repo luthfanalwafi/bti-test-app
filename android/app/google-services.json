@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "816897893281",
+    "project_id": "bti-test-app",
+    "storage_bucket": "bti-test-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816897893281:android:0149d563bfee4fb846a1e0",
+        "android_client_info": {
+          "package_name": "com.example.bti_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816897893281-20uac5nfqurheu5877fu98suv7el30i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bti_test_app",
+            "certificate_hash": "836f9feed15ea9247ce6ca48fb53e549a52e54e4"
+          }
+        },
+        {
+          "client_id": "816897893281-nuvt62n8lfddi02d7r8aeqjueui9pekn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bti_test_app",
+            "certificate_hash": "9e291087ecd009baa6f03a12e0344e158705203c"
+          }
+        },
+        {
+          "client_id": "816897893281-3eg3ur75d1u5fjpi2s4gi68ahan50fgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmoZX06iQe2Y2raTpMWKaCbOglNTNmYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816897893281-3eg3ur75d1u5fjpi2s4gi68ahan50fgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
