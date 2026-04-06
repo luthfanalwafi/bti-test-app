@@ -118,4 +118,4 @@ login → browse news → bookmark → open chat → send message
 ## APK Build
 
 The release APK can be found at:
-build/app/outputs/flutter-apk/app-release.apk
+apk/app-release.apk
